@@ -1,0 +1,16 @@
+@import url(style/navbar.css);
+
+:root{
+    --fonte-primaria: "Inter", sans-serif;
+    --Cor-azul: #3A404E;
+    --Cor-cinza: #667085;
+    --Cor-vinho: #8E2424;
+    --Cor-Branco: #FFFFFF;
+
+}
+
+body{
+    font-family: var(--fonte-primaria);
+    font-size: 1em;
+    color: var(--Cor-cinza);
+}
