@@ -1,0 +1,26 @@
+
+.cabecalho {
+    background-color: var(--Cor-Branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.lista__menu{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container__link, 
+.opçoes__link {
+    text-decoration: none;
+}
