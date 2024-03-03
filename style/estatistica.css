@@ -1,0 +1,29 @@
+.estatistica{
+    display: flex;
+    justify-content: space-between;
+    margin: 3em 4em;
+
+}
+.estatistica_box{
+    margin: 0 7em 0 0;
+    
+}
+
+
+.estatistica-box-titulo{
+    font-size: 3.75em;
+    color: var(--Cor-vinho);
+    font-weight: 600;
+
+}
+
+.estatistica-box-subtitulo{
+    font-size: 1.125em;
+    font-weight: 500;
+    color: var(--Cor-azul-escuro);
+}
+
+.estatistica-box-texto{
+    font-weight: 400;
+
+}
