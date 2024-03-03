@@ -1,8 +1,10 @@
 @import url(style/navbar.css);
+@import url(style/diferente.css);
 
 :root{
     --fonte-primaria: "Inter", sans-serif;
     --Cor-azul: #3A404E;
+    --Cor-azul-escuro: #101828;
     --Cor-cinza: #667085;
     --Cor-vinho: #8E2424;
     --Cor-Branco: #FFFFFF;

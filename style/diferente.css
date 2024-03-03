@@ -1,0 +1,24 @@
+.Diferentes{
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin: 0 37em;
+}
+.Diferentes__titulo{
+    font-weight: 600;
+    line-height: 150%;
+    color: var(--Cor-vinho);
+
+}
+
+.Diferentes__subtitulo{
+    font-weight: 600;
+    font-size: 3em;
+    color: var(--Cor-azul-escuro);
+    
+}
+
+.Diferentes__texto{
+    font-weight: 400;
+    font-size: 1.125em;
+}
