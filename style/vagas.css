@@ -18,17 +18,18 @@ margin: 0 auto;
     font-weight: 500;
     color: var(--Cor-vinho);
     border-radius: 16px;
-    width: 30%;
+    width: 20%;
     height: auto;
     background: rgba(142, 36, 36, 0.05);
-    margin: 0 auto;
+    margin: 0 auto 2em auto;
 
 }
 
 .box__vagas-subtitulo{
     font-weight: 600;
     font-size: 3em;
-    color: var(--Cor-azul-escuro)
+    color: var(--Cor-azul-escuro);
+    padding: 0 0 1em 0;
 }
 .box__vagas-texto{
     font-weight: 400;

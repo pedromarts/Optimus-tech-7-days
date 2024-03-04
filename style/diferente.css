@@ -15,10 +15,12 @@
     font-weight: 600;
     font-size: 3em;
     color: var(--Cor-azul-escuro);
+    padding-top: 0.5em;
     
 }
 
 .Diferentes__texto{
     font-weight: 400;
     font-size: 1.125em;
+    padding-top: 1.5em;
 }
