@@ -1,20 +1,37 @@
 .vagas{
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
+    justify-content: center;
     text-align: center;
     /* align-items: center; */
     margin: 1em 4em;
 
 }
+
+.box__vagas{
+margin: 0 auto;
+}
+
+
 .box__vagas-titulo{
     font-size: 0.875em;
     font-weight: 500;
     color: var(--Cor-vinho);
     border-radius: 16px;
-    width: 8em;
-    height: 2em;
+    width: 30%;
+    height: auto;
     background: rgba(142, 36, 36, 0.05);
-    text-align: center;
+    margin: 0 auto;
 
+}
+
+.box__vagas-subtitulo{
+    font-weight: 600;
+    font-size: 3em;
+    color: var(--Cor-azul-escuro)
+}
+.box__vagas-texto{
+    font-weight: 400;
+    font-size: 1.125em;
+    margin: 0 0 2em 0;
 }
