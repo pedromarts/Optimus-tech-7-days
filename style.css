@@ -1,6 +1,7 @@
 @import url(style/navbar.css);
 @import url(style/diferente.css);
 @import url(style/estatistica.css);
+@import url(style/vagas.css);
 
 :root{
     --fonte-primaria: "Inter", sans-serif;
