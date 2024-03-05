@@ -2,6 +2,7 @@
 @import url(style/diferente.css);
 @import url(style/estatistica.css);
 @import url(style/vagas.css);
+@import url(style/oportunidades.css);
 
 :root{
     --fonte-primaria: "Inter", sans-serif;

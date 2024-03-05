@@ -1,0 +1,29 @@
+
+.box__oportunidades{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ 
+}
+
+.oportunidades-titulo{
+    align-items: flex-start;
+    font-size: 1.125em;
+    font-weight: 500;
+    margin: 1.5em 0;
+
+}
+.oportunidade{
+    border: 1px solid #eaecf0;
+    border-radius: 16px;
+    padding: 24px 24px 28px 24px;
+    width: 768px;
+    height: 136px;
+
+}
+
+.informacoes{
+    display: flex;
+    align-items: end;
+}
+
