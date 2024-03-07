@@ -3,6 +3,7 @@
 @import url(style/estatistica.css);
 @import url(style/vagas.css);
 @import url(style/oportunidades.css);
+@import url(style/relato.css);
 
 :root{
     --fonte-primaria: "Inter", sans-serif;
