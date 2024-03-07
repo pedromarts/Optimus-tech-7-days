@@ -4,6 +4,7 @@
 @import url(style/vagas.css);
 @import url(style/oportunidades.css);
 @import url(style/relato.css);
+@import url(style/rodape.css);
 
 :root{
     --fonte-primaria: "Inter", sans-serif;
