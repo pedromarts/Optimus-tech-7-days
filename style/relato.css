@@ -1,14 +1,14 @@
 .relato{
     display: flex;
     justify-content: center;
-    margin: 2em 6em;
+    margin: 2em 25em;
     text-align: center;
     align-items: center;
     
     border-radius: 16px;
     padding: 64px;
-    width: 1000px;
-    /* height: 202px; */
+    width: 55%;
+    height: 65%;
     background: rgba(195, 25, 25, 0.03);
 
 }
