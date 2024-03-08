@@ -45,9 +45,11 @@
 .relato__cargo{
     margin-top: 0.5em;
     font-size: 0.875em;
+    text-decoration: none;
 }
 
 .relato__perfil{
     margin-top: 0.5em;
-    color: var(--Cor-azul-escuro)
+    color: var(--Cor-azul-escuro);
+    text-decoration: none;
 }
